@@ -1,0 +1,8 @@
+# Note: Aim to make the developer-interaction as clean and simple as possible,
+#       hide the complicated things
+Validation
+Filters - easy to access from Views
+A form helper/accessor would be nice, although I'd like to write it in a unique way, 
+  compared to Zend_Form and the like.
+Documentation (code docblock & commenting, wiki)
+Request/Result classes to allow control over the HTTP stack.
